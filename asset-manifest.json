@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wazzupbruh/pageWithClock.git/static/css/main.8edbf072.chunk.css",
+    "main.js": "/wazzupbruh/pageWithClock.git/static/js/main.f227753d.chunk.js",
+    "main.js.map": "/wazzupbruh/pageWithClock.git/static/js/main.f227753d.chunk.js.map",
+    "runtime-main.js": "/wazzupbruh/pageWithClock.git/static/js/runtime-main.ea5888c8.js",
+    "runtime-main.js.map": "/wazzupbruh/pageWithClock.git/static/js/runtime-main.ea5888c8.js.map",
+    "static/js/2.a7c1415b.chunk.js": "/wazzupbruh/pageWithClock.git/static/js/2.a7c1415b.chunk.js",
+    "static/js/2.a7c1415b.chunk.js.map": "/wazzupbruh/pageWithClock.git/static/js/2.a7c1415b.chunk.js.map",
+    "static/js/3.8d14b5ec.chunk.js": "/wazzupbruh/pageWithClock.git/static/js/3.8d14b5ec.chunk.js",
+    "static/js/3.8d14b5ec.chunk.js.map": "/wazzupbruh/pageWithClock.git/static/js/3.8d14b5ec.chunk.js.map",
+    "index.html": "/wazzupbruh/pageWithClock.git/index.html",
+    "static/css/main.8edbf072.chunk.css.map": "/wazzupbruh/pageWithClock.git/static/css/main.8edbf072.chunk.css.map",
+    "static/js/2.a7c1415b.chunk.js.LICENSE.txt": "/wazzupbruh/pageWithClock.git/static/js/2.a7c1415b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea5888c8.js",
+    "static/js/2.a7c1415b.chunk.js",
+    "static/css/main.8edbf072.chunk.css",
+    "static/js/main.f227753d.chunk.js"
+  ]
+}
