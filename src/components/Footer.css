@@ -1,0 +1,8 @@
+.footer{
+    background-image:url(https://cdn.wallpapersafari.com/73/22/XjKm9Y.gif);
+    padding: 20px;
+    grid-area: f;
+    background-color: purple;
+    background-size: 100% 100%;
+    border-radius: 20px;
+  }

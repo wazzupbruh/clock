@@ -1,0 +1,14 @@
+.content{
+    grid-area: c;
+    background-image:url(https://img0.liveinternet.ru/images/attach/c/2//68/92/68092336_1292837229_e47c3edb1c5a.gif);
+    border-radius: 20px;
+    border: 4px solid white;
+}
+.info{
+  padding: 20px;
+}
+.content img{
+  box-shadow: 0 0 100px white;
+  width: 900px;
+  border-radius: 20px;
+}

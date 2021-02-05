@@ -1,0 +1,18 @@
+.header{
+    background-repeat: no-repeat;
+    grid-area: h;
+    background-image:url(https://cdn.wallpapersafari.com/73/22/XjKm9Y.gif);
+    border-radius: 20px;
+}
+.header img{
+  height: 50px;
+}
+.box{
+  overflow:hidden;
+}
+.box div{
+  width:33%;
+  display:inline-block;
+  white-space:nowrap;
+}
+
